@@ -1,13 +1,68 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    outline: none;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+    color:white;
+}
+
+.controlBtns{
+  color: white;
+}
+#root {
+    font-family: 'Roboto Thin', sans-serif;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#wrapper {
+    width: 60vh;
+    height: 60vh;
+    background-color: red;
+    color: inherit;
+    border-radius: 50%;
+    align-items: flex-start;
+}
+
+#title {
+    margin-top: 7.5%;
+    font-size: 6vh;
+}
+
+div {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.time-control {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+button, #break-length, #session-length, #timer-label, #time-left, .time-control {
+    font-size: 4vh;
+}
+
+@media screen and (orientation: portrait) {
+  #wrapper {
+      width: 90vw;
+      height: 90vw;
+  }
+
+  #title {
+      font-size: 4vh;
+  }
 }
