@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fcc_pomodoro_timer/static/css/main.41a9b5bf.chunk.css",
+    "main.js": "/fcc_pomodoro_timer/static/js/main.a327db29.chunk.js",
+    "main.js.map": "/fcc_pomodoro_timer/static/js/main.a327db29.chunk.js.map",
+    "runtime-main.js": "/fcc_pomodoro_timer/static/js/runtime-main.cbc7ea71.js",
+    "runtime-main.js.map": "/fcc_pomodoro_timer/static/js/runtime-main.cbc7ea71.js.map",
+    "static/css/2.3f2f2db6.chunk.css": "/fcc_pomodoro_timer/static/css/2.3f2f2db6.chunk.css",
+    "static/js/2.7c0ad21a.chunk.js": "/fcc_pomodoro_timer/static/js/2.7c0ad21a.chunk.js",
+    "static/js/2.7c0ad21a.chunk.js.map": "/fcc_pomodoro_timer/static/js/2.7c0ad21a.chunk.js.map",
+    "index.html": "/fcc_pomodoro_timer/index.html",
+    "static/css/2.3f2f2db6.chunk.css.map": "/fcc_pomodoro_timer/static/css/2.3f2f2db6.chunk.css.map",
+    "static/css/main.41a9b5bf.chunk.css.map": "/fcc_pomodoro_timer/static/css/main.41a9b5bf.chunk.css.map",
+    "static/js/2.7c0ad21a.chunk.js.LICENSE.txt": "/fcc_pomodoro_timer/static/js/2.7c0ad21a.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/fcc_pomodoro_timer/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbc7ea71.js",
+    "static/css/2.3f2f2db6.chunk.css",
+    "static/js/2.7c0ad21a.chunk.js",
+    "static/css/main.41a9b5bf.chunk.css",
+    "static/js/main.a327db29.chunk.js"
+  ]
+}
